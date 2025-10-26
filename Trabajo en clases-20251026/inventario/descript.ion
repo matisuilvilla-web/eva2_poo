@@ -1,0 +1,6 @@
+inventario_poo
++ producto.py clase producto (encapsulamiento)
++ inventario.py clase inventario (CRUD memoria +carga / CSV)
++ app.py menu de 3 o 4  o mas opciones
++ data.CSV
+
